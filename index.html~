@@ -36,11 +36,11 @@
     <!-- ******HEADER****** --> 
     <header class="header">
         <div class="container">                       
-            <img class="profile-image img-responsive pull-left" src="assets/images/FILE NAME OF YOUR PROFILE PHOTO" alt="ALicia Vasquez" />
+            <img class="profile-image img-responsive pull-left" src="assets/images/FILE NAME OF YOUR PROFILE PHOTO" alt="Your name here" />
             <div class="profile-content pull-left">
 
 
-                <h1 class="name">Alicia Vasquez</h1>
+                <h1 class="name">YOUR NAME HERE</h1>
                 <h2 class="desc">Web Developer</h2>   
 
 
@@ -48,7 +48,7 @@
                     <li><a href="#"><i class="fa fa-twitter"></i></a></li>                   
                     <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
                     <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                    <li><a href="http://avasquez123.github.io/index.html"><i class="fa fa-github-alt"></i></a></li>                  
+                    <li><a href="LINK TO YOUR GITHUB ACCOUNT HERE"><i class="fa fa-github-alt"></i></a></li>                  
                     <li class="last-item"><a href="#"><i class="fa fa-hacker-news"></i></a></li>                 
                 </ul> 
             </div><!--//profile-->
@@ -59,16 +59,12 @@
     <div class="container sections-wrapper">
         <div class="row">
             <div class="primary col-md-8 col-sm-12 col-xs-12">
-                <section class="On my spare time I play varsity rugby for the Aztecs, go on bike rides,and box. I love to be outdoors, whether its helping my mom in the backyard or going on a hike.">
+                <section class="about section">
                     <div class="section-inner">
                         <h2 class="heading">About Me</h2>
                         <div class="content">
-                            <p> My name is ALicia Vasquez and I am a junior at High Tech High. I am interested in majoring in the Engineering, Science or the Medical field. I have been playing girls varsity rugby for the Aztecs for three years. After high school I plan on going to a our year college. My dream would be to stay in San Diego  </p>    
-         <ul>
-<li> School </li>
-         </ul>
-
-
+                            <p>Write a brief intro about yourself. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec.</p>    
+         
         <p>It's a good idea to include your personal interests and hobbies as well. Commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec.Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
                          
                         </div><!--//content-->
@@ -115,14 +111,14 @@
                         <h2 class="heading">Education</h2>
                         <div class="content">
                             <div class="item">                      
-                                <h3 class="High school"><i class="fa fa-graduation-cap"></i> High School</h3>
+                                <h3 class="title"><i class="fa fa-graduation-cap"></i> High School</h3>
                                 <h4 class="university">___ High School <span class="year">(Year start and end here)</span></h4>
                             </div><!--//item-->
                         </div><!--//content-->
                     </div><!--//section-inner-->
                 </aside><!--//section-->
                             
-                <aside class="English and Spanish">
+                <aside class="languages aside section">
                     <div class="section-inner">
                         <h2 class="heading">Languages</h2>
                         <div class="content">
@@ -140,7 +136,7 @@
                     </div><!--//section-inner-->
                 </aside><!--//section-->
                 
-                <aside class="Christian worship, hip hop, and r&b">
+                <aside class="list music aside section">
                     <div class="section-inner">
                         <h2 class="heading">Favourite coding music</h2>
                         <div class="content">
